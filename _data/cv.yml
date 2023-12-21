@@ -5,8 +5,7 @@
       institution: University of California, San Diego
       year: 2023
       description:
-        - title: Dissertation title
-          contents:
+        - description:
             - "Aerosols, Air Quality Equity, and Climate Impacts: Idealized Modeling to Inform Climate Policy"
     - title: M.S. Meteorology
       institution: Ludwig Maximilian University (LMU), Munich, Germany
