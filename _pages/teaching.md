@@ -16,7 +16,7 @@ Though this course is officially titled Carbon Neutrality at UC, I have tried to
 
 ## SIO 60
 
-Experiences in Atmospheric and Oceanic Sciences <br />
+Experiences in Atmospheric and Oceanic Sciences \
 TA, Fall 2021
 
 This is a practical introductory course covering a breadth of oceanic and atmospheric sciences. A large portion of the class consists of lab exercises that are meant to foster an intuition for the physic underlying the world around us. This includes things like measuring infrared radiation, understanding hydrostatic pressure through a very long straw, doing rotating tank experiments, and measuring atmospheric and oceanic temperature profiles using a weather balloon and CTD casts. 
