@@ -24,5 +24,5 @@ This is a practical introductory course covering a breadth of oceanic and atmosp
 
 ## Undergraduate mentorship
 
-I have worked with multiple undergraduate researchers throughout my PhD and postdoc. This includes two summers with REU interns, an longer term undergrad/masters student researcher. I learned an immense amount about teaching through working with these wonderful people!
+I have worked with multiple undergraduate researchers throughout my PhD and postdoc. This includes two summers with REU interns, a longer term undergrad/masters student researcher, and others. I have learned an immense amount about teaching through working with these wonderful people!
 
