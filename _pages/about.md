@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: This site is very under construction. If you're seeing this, I recommend checking back in a few days. My publications are not authored by Einstein.
 
 profile:
   align: right
