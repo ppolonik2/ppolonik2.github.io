@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have been lucky to teach a course on local climate action, Ta for an introductory Earth science courses, and work with multiple undergrads. More details below!
+description: I have been lucky to teach a course on local climate action, TA for an introductory Earth science courses, and work with multiple undergrads. More details below!
 nav: true
 nav_order: 5
 ---
