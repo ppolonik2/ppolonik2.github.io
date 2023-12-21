@@ -1,9 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: Pascal Polonik
-
 - title: Education
   type: time_table
   contents:
@@ -13,13 +7,17 @@
       description:
         - title: Dissertation title
           contents:
-            - Aerosols, Air Quality Equity, and Climate Impacts: Idealized Modeling to Inform Climate Policy
+            - "Aerosols, Air Quality Equity, and Climate Impacts':' Idealized Modeling to Inform Climate Policy"
     - title: M.S.
       institution: Ludwig Maximilian University (LMU), Munich, Germany
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Aerosol-cloud interactions from WRF and in-situ measurements
+    - title: B.S., B.A.
+      institution: UC Berkeley, Berkeley, CA
+      year: 2015
+      description:
+        - Envionmental Sciences, Atmospheric Science
 
 - title: Experience
   type: time_table
