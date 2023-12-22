@@ -23,7 +23,7 @@ Air pollution is responsible for about 100,000 premature deaths in the US every 
 In one study, we used the COVID19 shutdown in 2020 to show thta anthropogenic pollution in California (CA) leads to the inequitable distribution air pollution. Particulate matter improved more during the shutdown for Asian and Hispanic Californians, meaning that the activities that declined during this time normally disproportionately impact those populations. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/PM_change_results.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
