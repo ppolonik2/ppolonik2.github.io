@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Air quality equity
+description: Sources of inequitable air quality and potential solutions
+img: assets/img/Highway_thumbnail.jpg
 importance: 2
 category: work
 giscus_comments: true
