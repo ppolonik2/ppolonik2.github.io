@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impact models meet physical science
+title: Climate impacts
 description: Exploring how physical science influence statistical climate impact models
 img: assets/img/Rice_thumbnail.jpg
 importance: 1
