@@ -2,7 +2,7 @@
 layout: page
 title: Impact models meet physical science
 description: Exploring how physical science influence statistical climate impact models
-img: assets/img/Smoke_thumbnail.jpg
+img: assets/img/Rice_thumbnail.jpg
 importance: 1
 category: work
 related_publications: 
