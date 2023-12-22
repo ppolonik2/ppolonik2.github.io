@@ -7,29 +7,37 @@ importance: 3
 category: work
 ---
 
-Air pollution is responsible for about 100,000 premature deaths in the US every year, and millions globally. It has been been linked to myriad negative health impacts. In the US, air pollution is inequitably distributed by race (see figure). Adressing those inequities requires understanding the spatial distribution of pollution sources and people, as well as the transport and transformation of pollutants in the atmosphere.
+Climate policy will change air pollution because climate pollutants and traditional pollutants are often co-emitted when burning fossil fuels. Cleaner air is an immediate and local benefit of changing emissions, which is fundamentally different from the impacts of climate change that tend to be long-term and spatially diffuse. Changes to air pollution are often not considered when modeling climate policy decisions, even though they come up in local and international policy documents. Furthermore, those particulates (aerosols) have their own climate impacts. A very general way to think about decisions and feedbacks is shown below.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Figure1a_twitter.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Decision_FlowChart.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    National and state-level disparities in particulate matter pollution by race. Disparity here is defined the percent difference between the population-weighted mean concentration and the total population-weighted mean. The arrows indicate the trend over the 2010s. 
-</div>
 
-In one study, we used the COVID19 shutdown in 2020 to show thta anthropogenic pollution in California (CA) leads to the inequitable distribution air pollution. Particulate matter improved more during the shutdown for Asian and Hispanic Californians, meaning that the activities that declined during this time normally disproportionately impact those populations. 
+We implemented highly idealized decision criteria that incorporate the health and climate impacts of aerosols in theoretical implementations of countries' Paris Agreement emission reduction targets. We showed that considering aerosols as part of climate policy can be objectively beneficial in some cases. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PM_change_results.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/GlobalT_vs_Mortality.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Change in particulate matter pollution for different populations in California during the COVID shutdown using different sets of controls.
+    Health and climate outcomes from aerosols using three different idealized decision criteria. Top right is objecively worse that bottom left. In some regions the "equal" priority is objectively worse than the others.
 </div>
 
-We explored whether those inequities could be addressed by cutting pollution through climate policy. The answer is somewhat nuianced - simply reducing pollution does not necessarily reduce inequities. However, targetted implementation of climate policies can lead to improved environmental equity. Specifically, the transportation sector has a higher potential to improve equity through climate policy, which is consistent with results from the COVID study, since transportation emissions were greatly reduced during the shutdown.
+We used a similar approach in a US-specific study that explores the equity outcomes of different idealized climate policy implementations. But these studies still do not interactively consider the feedbacks between decisions and outcomes. Modeling those interactions is a job for an integrated assessment model (IAM), which explicity couples human and natural systems. I am currently working on improving one such model and including aerosol health and climate impacts.
 
-There are several questions around air quality equity that I would like to explore further. Reach out if you want to talk more!
+In an early attempt to think about the connection between human institutions and distribution of impacts, I used regressions to model the climate impacts of OECD and non-OECD aerosols. 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/OECD_nonOECD_summary.png" title="Global stations" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Temperature change caused by aerosols from two different regions according to regressions on CESM2 aerosol-only simulations. 
+</div>
+
+I think this is pretty cool! But there's a lot left to do and I'm actively working on it with others in the Ricke group. The regional impacts of aerosols could definitely have geopolitical implications, especially if altered intentially.
 
