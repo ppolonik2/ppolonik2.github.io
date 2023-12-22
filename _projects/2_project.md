@@ -16,5 +16,5 @@ Air pollution is responsible for about 100,000 premature deaths in the US every 
     </div>
 </div>
 <div class="caption">
-    National and state-level disparities in particulate matter pollution. 
+    National and state-level disparities in particulate matter pollution by race. Disparity here is defined the percent difference between the population-weighted mean concentration and the total population-weighted mean. 
 </div>
