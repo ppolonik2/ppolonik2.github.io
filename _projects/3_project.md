@@ -3,7 +3,6 @@ layout: page
 title: Aerosols in climate policy
 description: How aerosols change decisions and outcomes around climate policy
 img: assets/img/Smoke_thumbnail.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
