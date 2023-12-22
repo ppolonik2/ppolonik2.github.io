@@ -1,25 +1,14 @@
 ---
 layout: page
 title: Air quality equity
-description: Sources of inequitable air quality and potential solutions
+description: Sources of inequitably distributed air pollution and potential solutions
 img: assets/img/Highway_thumbnail.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Air pollution is responsible for about 100,000 premature deaths in the US every year, and millions globally. It has been been linked to myriad negative health impacts. In the US, air pollution is inequitably distributed by race (see figure). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
