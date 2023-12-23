@@ -21,6 +21,6 @@ Our understanding of climate science has advanced dramatically over the past few
 
 I enjoy this work because it allows me to apply my background in Earth science to policy-relevant questions in new and creative ways using a wide range of methods. I get to learn about and contribute to both Earth science and current public conversations.
 
-Outside of work I enjoy spending time with friends, running, hiking, camping, visiting National Parks, and taking pictures.
+Outside of work I enjoy spending time with friends, running, biking, playing soccer, hiking, camping, visiting National Parks, and taking pictures.
 
 
