@@ -5,7 +5,6 @@ description: Sources of inequitably distributed air pollution and potential solu
 img: assets/img/Highway_thumbnail.jpg
 importance: 2
 category: work
-giscus_comments: true
 related_publications: bluhm2022disparate, polonik2023air
 ---
 
