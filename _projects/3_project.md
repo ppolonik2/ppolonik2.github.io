@@ -5,6 +5,7 @@ description: How aerosols change decisions and outcomes around climate policy
 img: assets/img/Smoke_thumbnail.jpg
 importance: 3
 category: work
+related_publications: polonik2021paris, polonik2023air
 ---
 
 Climate policy will change air pollution because climate pollutants and traditional pollutants are often co-emitted when burning fossil fuels. Cleaner air is an immediate and local benefit of changing emissions, which is fundamentally different from the impacts of climate change that tend to be long-term and spatially diffuse. Changes to air pollution are often not considered when modeling climate policy decisions, even though they come up in local and international policy documents. Furthermore, those particulates (aerosols) have their own climate impacts. A very general way to think about decisions and feedbacks is shown below.
