@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: This site is very under construction. If you're seeing this, I recommend checking back in a few days. My publications are not authored by Einstein.
+subtitle: Climate science and impacts, air quality, and environmental equity
 
 profile:
   align: right
@@ -21,8 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a postdoc at UC San Diego as part of the School of Global Policy & Strategy and the Scripps Institution of Oceanography, as part of the Ricke and Burney groups.
 
-I use statistical and numerical models to study human-environment interactions, focusing on the impacts of climate change and air pollution. 
+**I use statistical and numerical models to study human-environment interactions, focusing on the impacts of climate change and air pollution.**
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our understanding of climate science has advanced dramatically over the past few decades and we now recognize that human decisions will drive our collective future. My goal is to help quantify how adding people into our current understanding of physical science changes our climate and equity trajectories.
