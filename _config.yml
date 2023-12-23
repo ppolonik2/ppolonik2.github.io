@@ -8,12 +8,12 @@ middle_name:
 last_name: Polonik
 email: ppolonik@ucsd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Pascal's personal website
+  Pascal's personal page
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos my own.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: pascal polonik, pascal, polonik, postdoc, climate, modeling, SIO, GPS  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: Mountains.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
