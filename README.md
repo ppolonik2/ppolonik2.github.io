@@ -1,3 +1,6 @@
+# Pascal Polonik
+This is Pascal's personal website. I am a postdoc at UC San Diego and I study cimate science and impacts, air quality, human-climate interactions, and environmental equity. I used al-folio to create this website. The full readme for al-folio is replicated below.
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
