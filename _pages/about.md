@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Climate science and impacts, air quality, and environmental equity
+# subtitle: Climate science and impacts, air quality, and environmental equity
 profile:
   align: right
   image: prof_pic.jpg
