@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Climate Change Studies 101
 
-Instructor, Fall 2022 + 2023
+Instructor, Fall 2022 + 2023 + 2024
 
 Though this course is officially titled Carbon Neutrality at UC, I have tried to make it more broadly about local climate action. It's a two unit course that consists of half lecture/discussion and half guest speakers. Example speakers include transportation and sustainability staff, city sustainability staff, a local reporter, and local NGO staff. We also take tours of campus energy infrastrucutre and LEED certified buildings. The purpose of the class is to gain a practical understanding of the changes required to decarbonize, think broadly about individual and systemic action, and view the world around you through a climate lens.
 
