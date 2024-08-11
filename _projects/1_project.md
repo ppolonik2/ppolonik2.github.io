@@ -8,14 +8,14 @@ category: work
 related_publications: 
 ---
 
-Statistical climate impact models estimate how climatic factors like temperature and precipitation influence a human outcome of interest like economic activity (GDP) or agricultural output. In this project we explore how considerations from the physical Earth sciences bias these models and how those biases could potentially be adressed. 
+Statistical climate impact models estimate how climatic factors like temperature and precipitation influence a human outcome of interest like economic activity (GDP) or agricultural output. In this project we explore how considerations from the physical Earth sciences bias these models and how those biases could potentially be addressed. 
 
 We consider the role of:
  - measurement error
  - correlation between independent variables
  - mean climate state
 
-Paper in prep!
+Paper under review!
 
 Measurement error in this context often occurs because of interpolation used for gridded data products. Correlation between temperature (T) and precipitation (P) comes from physical coupling through mechanisms like evapotranspiration, but can lead to bias. Means are often subtracted as part of the statistical analysis (through the use of spatial fixed effects), but this may obscure a substantial part of the longer term climate signal.
 
