@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here you can find a little info about what I'm currently thinking about. Feel free to reach out if you want to learn more.
 nav: true
 nav_order: 2
-display_categories: [work]
+# display_categories: [work]
 horizontal: false
 ---
 
