@@ -40,5 +40,5 @@ In an early attempt to think about the connection between human institutions and
     Temperature change caused by aerosols from two different regions according to regressions on CESM2 aerosol-only simulations. 
 </div>
 
-I think this is pretty cool! But there's a lot left to do and I'm actively working on it with others in the Ricke group. The regional impacts of aerosols could definitely have geopolitical implications, especially if altered intentially.
+The regional temperature and precipitation changes from GHGs and aerosols cause local impacts that subsequently influence emissions, which creates a feedback. Understanding how human decisions alter these feedbacks is the subject of ongoing work. For example, using a coupled model we can assess how the coupled system reacts to the implementation of loss-and-damage funds that would transfers money between countries. 
 
