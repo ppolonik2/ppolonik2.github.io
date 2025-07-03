@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at UC San Diego as part of the School of Global Policy & Strategy and the Scripps Institution of Oceanography, as part of the Ricke and Burney groups.
+I am a postdoc at Stanford University as part of the Doerr School of Sustainability. 
 
 **I use statistical and numerical models to study human-environment interactions, focusing on the impacts of climate change and air pollution.**
 
