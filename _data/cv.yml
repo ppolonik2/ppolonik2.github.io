@@ -19,8 +19,12 @@
   type: time_table
   contents:
     - title: Postdoc
+      institution: Stanford University
+      year: 2025 - 
+      
+    - title: Postdoc
       institution: UC San Diego
-      year: 2023 -
+      year: 2023 - 2025
 
     - title: Grad Student Researcher
       institution: UC San Diego
